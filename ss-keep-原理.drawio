@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T16:15:54.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uyOa_V7o-xyEl5LzO1Tn" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T16:31:50.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ctTnIwXhvohl-oZMtOR2" version="15.1.4" type="github">
   <diagram id="5AnYDvb3x7lwekYzqmpj" name="Page-1">
     <mxGraphModel dx="1328" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="pgwAssis9LHmrlWw1_st-19" value="额外执行退场回调&lt;br&gt;dispatchOnExitAnimation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1149" y="98" width="167" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pgwAssis9LHmrlWw1_st-20" value="OnExitAnimationListener&lt;br&gt;#onSplashScreenExit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pgwAssis9LHmrlWw1_st-20" value="OnExitAnimationListener" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1150" y="179" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgwAssis9LHmrlWw1_st-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="pgwAssis9LHmrlWw1_st-16" target="pgwAssis9LHmrlWw1_st-23">
